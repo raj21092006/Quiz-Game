@@ -27,10 +27,7 @@ Console/Terminal
 
 ▶️ How to Run
 
-Clone the repository:
-
-git clone https://github.com/your-username/quiz-game-c.git
-
+Clone the repository
 
 Open terminal in project folder
 
